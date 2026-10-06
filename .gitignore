@@ -1,0 +1,26 @@
+# секреты
+.env
+*.env
+!.env.example
+
+# окружение
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# рабочие выходные файлы скриптов
+figures/
+figures000/
+figures_h3/
+figures_04_statsforecast/
+
+# картинки не коммитим, кроме пары иллюстраций для README
+*.png
+!docs/img/*.png
+
+# системное
+.DS_Store
+Thumbs.db
+*:Zone.Identifier

@@ -1,0 +1,22 @@
+# версии проставьте из своего окружения: pip freeze | findstr /I "pandas numpy lightgbm ..."
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+statsmodels
+lightgbm
+xgboost
+shap
+statsforecast
+prophet
+mlforecast
+neuralforecast
+torch
+nixtla
+chronos-forecasting
+requests
+beautifulsoup4
+fredapi
+openpyxl
+python-dotenv
